@@ -41,6 +41,7 @@ body {
     transition: all 0.3s;
   }
 
+
   .home {background: linear-gradient(90deg, #a98cfe 0%, #a5edff 100%);}
 
   .home::before, .Calendar::before, .Annoucements::before, .More_documents::before, .Coming_Soon::before {
