@@ -19,7 +19,6 @@ body.dark-mode .home::before, body.dark-mode .Calendar::before, body.dark-mode .
 
   body.dark-mode .Welcome, body.dark-mode .content-after-welcome {color: #CCCC99;}
 
-
   body.dark-mode .Calendar:hover:before {background: linear-gradient(225deg,#ff3cac 0%,#784ba0 50%,#2b86c5 100%);}
   body.dark-mode .Annoucements:hover:before {background: linear-gradient(225deg,#18A5A7 0%,#BFFFC7 100%);}
   body.dark-mode .More_documents:hover:before {background: linear-gradient(225deg,#E90000 0%,#f1517c 50%,#FAA6FF 100%);}
